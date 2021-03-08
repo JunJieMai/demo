@@ -1,0 +1,90 @@
+/*body{
+    background-color: #F4F3F8;
+}*/
+.d{
+    text-align: center;
+    margin-top: 22px;
+}
+.other-way-login {
+    height: 30px;
+    line-height: 30px;
+    font-size: 24px;
+    text-align: center;
+
+}
+.other-way-login .line {
+    display: inline-block;
+    width: 150px;
+    border: 1px solid #D6D7DA;
+}
+.other-way-login .txt {
+    color: #D6D7DA;
+    vertical-align: middle;
+    vertical-align: -20%;
+
+}
+#d3>p{
+    color:#D6D7DA ;
+    text-align: center;
+}
+.imgz{
+    width: 30px;
+    height: 20px;
+    margin-right: 5px;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+}
+#d1{
+    float: left;
+    padding: 50px;
+    margin-left: 169px;
+}
+#d1>div{
+    margin-bottom: 25px;
+}
+#d2{
+    margin-top: 30px;
+    float: right;
+
+    margin-right: 130px;
+}
+#d3{
+    background-color: #2A2929;
+    padding-top: 16px;
+    padding-bottom: 1px;
+}
+#send{
+    background-color: #2A2929;
+    color: white;
+    width: 88px;
+    height: 25px;
+    padding: 2px;
+}
+inp,textarea{
+    border-radius: 4px;
+    border: 1px solid white;
+    padding-left: 10px;
+}
+#d4{
+    color: #81807F;
+}
+span{
+    color: #81807F;
+}
+#d2>div{
+    padding-bottom: 25px;
+}
+.inp{
+    width: 360px;
+    height: 40px;
+    border: 1px solid white;
+}
+textarea{
+    width: 360px;
+    height: 150px;
+}
+#d5{
+    text-align: right;
+}

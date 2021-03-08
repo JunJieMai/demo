@@ -1,0 +1,47 @@
+.d{
+    text-align: center;
+    margin-top: 35px;
+}
+.other-way-login {
+    height: 30px;
+    line-height: 30px;
+    font-size: 24px;
+    text-align: center;
+
+}
+.other-way-login .line {
+    display: inline-block;
+    width: 150px;
+    border: 1px solid #D6D7DA;
+}
+.other-way-login .txt {
+    color: #D6D7DA;
+    vertical-align: middle;
+    vertical-align: -20%;
+}
+#sp1{
+    color: #E46486;
+}
+.d_1{
+    margin-right: 40px;
+    margin-left: 70px;
+    width: 270px;
+}
+#one_0{
+    margin-top: 65px;
+    margin-left: 150px;
+}
+pre{
+    background-color: white;
+    border: 0px;
+    text-align: left;
+}
+.im{
+    width:250px;
+    height:170px;
+}
+.bo{
+    background-color: #F5D4D7;
+    width:250px;
+    height:170px;
+}
